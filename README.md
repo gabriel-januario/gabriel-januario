@@ -1,234 +1,106 @@
-
-
-
 <div align="center">
 
-<a href="https://linkedin.com/in/gabriel-januário1">
-  <img src="https://img.shields.io/badge/LinkedIn-gabriel--januário1-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-
-<a href="mailto:gabrieljanuario1@outlook.com">
-  <img src="https://img.shields.io/badge/Email-Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white"/>
-</a>
-
+![header](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=1000&color=FFFFFF&background=1B3A5C&center=true&vCenter=true&width=900&height=100&lines=Gabriel+Januário;Analista+de+Projetos+|+PMO+Analyst;Operações+%26+Processos)
 </div>
 
 <br/>
 
 <div align="center">
 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-gabriel--januário1-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/gabriel-januário1)
+&nbsp;
+[![Email](https://img.shields.io/badge/Email-gabrieljanuario1@outlook.com-0078D4?style=flat-square&logo=microsoft-outlook&logoColor=white)](mailto:gabrieljanuario1@outlook.com)
+&nbsp;
+
+<br/>
+
 ![Disponível](https://img.shields.io/badge/●_Aberto_a_Oportunidades-2ea44f?style=flat-square)
 &nbsp;
-![Localização](https://img.shields.io/badge/📍_Sertãozinho_–_SP_|_Remoto_&_Híbrido-1B3A5C?style=flat-square)
+![Localização](https://img.shields.io/badge/📍_Sertãozinho–SP_|_Remoto_&_Híbrido-1B3A5C?style=flat-square)
 &nbsp;
 ![PSM I](https://img.shields.io/badge/🏆_PSM_I_–_Scrum.org_✓-1B3A5C?style=flat-square)
+&nbsp;
+![MBA](https://img.shields.io/badge/🎓_MBA_Projetos_–_USP_ESALQ-1B3A5C?style=flat-square)
 
 </div>
 
 ---
 
-<div align="center">
+## Sobre
 
-### Transformando operações complexas em processos mais previsíveis, organizados e orientados a performance.
+Profissional com mais de 4 anos de atuação em gestão de projetos operacionais e planejamento estratégico em ambientes industriais de média e alta complexidade. Meu trabalho sempre girou em torno do mesmo desafio: transformar complexidade operacional em previsibilidade — traduzindo dados em decisões, processos dispersos em sistemas que funcionam e demandas não estruturadas em entregas controladas.
 
-</div>
+Hoje atuo gerenciando carteiras ativas com rastreamento de cronograma por fase, monitoramento de KPIs, coordenação interfuncional e suporte à tomada de decisão da liderança. Competências diretamente aplicáveis a times de PMO, Analistas de Projetos e operações em transformação digital.
 
----
+Certificado PSM I (Scrum.org) · MBA em Gestão de Projetos em andamento (USP ESALQ) · AWS Cloud Practitioner e Jira em curso.
 
-# Sobre
-
-Profissional com sólida experiência em planejamento operacional, gestão de processos, análise de indicadores e coordenação de demandas em ambientes industriais de média e alta complexidade.
-Atuação focada em:
-
-- Gestão operacional
-- Planejamento e controle de demandas
-- Gestão de backlog
-- Acompanhamento de indicadores (KPIs)
-- Coordenação entre áreas estratégicas
-- Controle operacional
-- Melhoria contínua
-- Previsibilidade operacional
-- Gestão de fluxo operacional
-- Suporte à tomada de decisão
-
-Minha experiência prática em operações complexas me proporcionou forte visão sistêmica, organização, capacidade analítica e foco em eficiência operacional — competências altamente aderentes às áreas de Projetos, PMO, Operações e Transformação Digital.
-
-Atualmente direcionando minha carreira para Projetos e PMO através de:
-
-- MBA em Gestão de Projetos
-- Certificação PSM I
-- Certificação PSPO I
+> *"Quem opera sob pressão real aprende rapidamente que previsibilidade não se improvisa — se constrói com processo, dados e método."*
 
 ---
 
-# Foco de Atuação
+## Stack
 
-- PMO & Project Support
-- Gestão Operacional
-- Business Operations
-- Gestão de Demandas
-- Planejamento Operacional
-- Indicadores & Performance
-- Agile & Scrum
-- Gestão de Backlog
-- Process Improvement
-- Operações Estratégicas
-- Melhoria Contínua
-- Transformação Operacional
-
----
-
-#  Projetos em Destaque
-
-##  Operational Performance Dashboard
-
-### Plano Mestre de Produção & Indicadores Operacionais
-
-Sistema operacional desenvolvido para acompanhamento de backlog, previsibilidade de entregas, monitoramento de indicadores e controle operacional em ambiente industrial.
-
-### Principais funcionalidades
-
-- Dashboard executivo
-- Gestão visual operacional
-- Controle de backlog
-- Indicadores de performance
-- Controle de fluxo operacional
-- Acompanhamento de entregas
-- Consolidação de dados operacionais
-- Previsibilidade operacional
-- Gestão de status operacional
-
-### Ferramentas utilizadas
-
-- Excel Intermediário
-- PROCV / PROCX
-- Fórmulas condicionais
-- Dashboards Operacionais
-- Macros simples
-- Indicadores operacionais
-
-### Indicadores monitorados
-
-- Projetos concluídos
-- Projetos em andamento
-- Projetos atrasados
-- Backlog operacional
-- Performance operacional
-- Fluxo operacional
-- Pontualidade operacional
-- Previsibilidade de entregas
-
----
-
-# Gestão & Operações
+**Gestão & Método**
 
 ![Gestão de Projetos](https://img.shields.io/badge/Gestão_de_Projetos-1B3A5C?style=flat-square)
 ![PMO](https://img.shields.io/badge/PMO-1B3A5C?style=flat-square)
-![Business Operations](https://img.shields.io/badge/Business_Operations-1B3A5C?style=flat-square)
-![Agile](https://img.shields.io/badge/Agile_&_Scrum-1B3A5C?style=flat-square)
+![Scrum](https://img.shields.io/badge/Scrum_·_Agile-1B3A5C?style=flat-square)
 ![Kanban](https://img.shields.io/badge/Kanban-1B3A5C?style=flat-square)
-![Backlog](https://img.shields.io/badge/Backlog_Management-1B3A5C?style=flat-square)
-![Stakeholders](https://img.shields.io/badge/Gestão_de_Stakeholders-1B3A5C?style=flat-square)
+![Backlog Management](https://img.shields.io/badge/Backlog_Management-1B3A5C?style=flat-square)
+![Gestão de Stakeholders](https://img.shields.io/badge/Gestão_de_Stakeholders-1B3A5C?style=flat-square)
 ![Cronograma](https://img.shields.io/badge/Cronograma_&_Milestones-1B3A5C?style=flat-square)
-![Risk](https://img.shields.io/badge/Risk_Management-1B3A5C?style=flat-square)
-
----
-
-#  Indicadores & Performance
-
-![KPIs](https://img.shields.io/badge/KPIs-1B3A5C?style=flat-square)
-![Data Analysis](https://img.shields.io/badge/Data_Analysis-1B3A5C?style=flat-square)
+![Risk Management](https://img.shields.io/badge/Risk_Management-1B3A5C?style=flat-square)
+![S&OP](https://img.shields.io/badge/S%26OP_·_MRP-1B3A5C?style=flat-square)
+![Lean](https://img.shields.io/badge/Lean_·_VSM-1B3A5C?style=flat-square)
+![KPIs](https://img.shields.io/badge/Análise_de_KPIs-1B3A5C?style=flat-square)
 ![Melhoria Contínua](https://img.shields.io/badge/Melhoria_Contínua-1B3A5C?style=flat-square)
-![Process Improvement](https://img.shields.io/badge/Process_Improvement-1B3A5C?style=flat-square)
-![Lean](https://img.shields.io/badge/Lean_&_VSM-1B3A5C?style=flat-square)
-![Performance](https://img.shields.io/badge/Operational_Performance-1B3A5C?style=flat-square)
-![Planning](https://img.shields.io/badge/Operational_Planning-1B3A5C?style=flat-square)
-![S&OP](https://img.shields.io/badge/S%26OP_&_MRP-1B3A5C?style=flat-square)
+
+**Ferramentas**
+
+![Jira](https://img.shields.io/badge/Jira-0052CC?style=flat-square&logo=jira&logoColor=white)
+![MS Project](https://img.shields.io/badge/MS_Project-0078D4?style=flat-square&logo=microsoft&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=black)
+![Excel](https://img.shields.io/badge/Excel_Avançado-217346?style=flat-square&logo=microsoft-excel&logoColor=white)
+![SAP](https://img.shields.io/badge/SAP-0FAAFF?style=flat-square&logo=sap&logoColor=white)
+![Dynamics 365](https://img.shields.io/badge/Dynamics_365-0078D4?style=flat-square&logo=microsoft&logoColor=white)
+![Totvs](https://img.shields.io/badge/Totvs_Protheus-E30613?style=flat-square)
+![APS MES](https://img.shields.io/badge/APS_·_MES-555555?style=flat-square)
+![AWS](https://img.shields.io/badge/AWS_Cloud-FF9900?style=flat-square&logo=amazonaws&logoColor=white)
 
 ---
 
-#  Ferramentas
+## Formação & Certificações
 
-![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white)
-![MS Project](https://img.shields.io/badge/MS_Project-0078D4?style=for-the-badge&logo=microsoft&logoColor=white)
-![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
-![Excel](https://img.shields.io/badge/Excel_Avançado-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS_Cloud-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
-
----
-
-#  Atualmente Estudando
-
-- Power BI aplicado a indicadores operacionais
-- Jira & gestão ágil de projetos
-- AWS Cloud Practitioner
-- PMO & Governança
-- Gestão orientada a dados
-- Dashboards operacionais
+| | Certificação / Formação | Instituição | Status |
+|:---:|---|---|:---:|
+| 🏆 | **PSM I — Professional Scrum Master** | Scrum.org | ✅ Concluído · 2026 |
+| 🎓 | **MBA em Gestão de Projetos** | USP ESALQ – EAD | 🔄 Em andamento · 2028 |
+| ☁️ | **AWS Cloud Practitioner** | Amazon Web Services | 🔄 Em andamento |
+| 🔧 | **Jira — Gestão Ágil de Projetos** | Coursera | 🔄 Em andamento |
+| 🏭 | **Tecnólogo em Gestão da Produção Industrial** | Fatec Sertãozinho | ✅ Concluído · 2025 |
 
 ---
 
-#  Formação & Certificações
+## Atualmente estudando
 
-| Certificação / Formação | Instituição | Status |
-|---|---|---|
-|  PSM I — Professional Scrum Master | Scrum.org | ✅ Concluído |
-|  MBA em Gestão de Projetos | USP ESALQ | 🔄 Em andamento |
-|  AWS Cloud Practitioner | Amazon Web Services | 🔄 Em andamento |
-|  Jira — Gestão Ágil de Projetos | Atlassian | 🔄 Em andamento |
-|  Tecnólogo em Gestão da Produção Industrial | Fatec Sertãozinho | ✅ Concluído |
-
----
-
-#  Perfil Profissional
-
- Perfil analítico  
- Orientado a indicadores e performance  
- Gestão operacional e acompanhamento de demandas  
- Forte capacidade organizacional  
- Visão sistêmica e pensamento estruturado  
- Coordenação entre áreas estratégicas  
- Planejamento operacional e previsibilidade  
- Suporte estratégico à execução de projetos  
- Melhoria contínua e eficiência operacional  
-
----
-
-#  Conecte-se comigo
-
-<div align="center">
-
-<a href="https://linkedin.com/in/gabriel-januário1">
-  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-
-<a href="mailto:gabrieljanuario1@outlook.com">
-  <img src="https://img.shields.io/badge/Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white"/>
-</a>
-
-</div>
+```text
+Power BI aplicado a indicadores operacionais
+Jira e gestão ágil de projetos
+AWS Cloud Practitioner
+Governança e estruturação de PMO
+Python para análise de dados (próximo passo)
+```
 
 ---
 
 <div align="center">
 
-> “Quem atua diretamente em operações complexas aprende rapidamente que previsibilidade, organização e acompanhamento fazem toda diferença na entrega de resultados.”
+<img src="https://capsule-render.vercel.app/api?type=waving&color=1B3A5C,0d1117&height=90&section=footer" width="100%"/>
+
+**gabrieljanuario1@outlook.com** &nbsp;·&nbsp; **(16) 97404-1710** &nbsp;·&nbsp; **Sertãozinho – SP**
+
+![Visitas](https://komarev.com/ghpvc/?username=gabriel-januario&color=1B3A5C&style=flat-square&label=visitas+ao+perfil)
 
 </div>
 
----
-
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0d1b2a,1B3A5C&height=90&section=footer" width="100%"/>
-
-### Gabriel Januário
-
- Sertãozinho – SP • Remoto & Híbrido  
- gabrieljanuario1@outlook.com  
- 
-
-![Views](https://komarev.com/ghpvc/?username=gabriel-januario&color=1B3A5C&style=flat-square&label=visitas+ao+perfil)
-
-</div>
 
