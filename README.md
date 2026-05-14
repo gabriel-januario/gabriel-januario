@@ -97,7 +97,7 @@ Python para análise de dados (próximo passo)
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=1B3A5C,0d1117&height=90&section=footer" width="100%"/>
 
-**gabrieljanuario1@outlook.com** &nbsp;·&nbsp; **(16) 97404-1710** &nbsp;·&nbsp; **Sertãozinho – SP**
+**gabrieljanuario1@outlook.com** &nbsp;·&nbsp; **Sertãozinho – SP**
 
 ![Visitas](https://komarev.com/ghpvc/?username=gabriel-januario&color=1B3A5C&style=flat-square&label=visitas+ao+perfil)
 
