@@ -1,6 +1,6 @@
 <div align="center">
 
-![header](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=27&duration=3500&pause=1000&color=FFFFFF&background=17365D&center=true&vCenter=true&width=900&height=105&lines=Gabriel+Januário;Operações+%7C+Processos+%26+Performance;Business+Analysis+%7C+Melhoria+Contínua)
+![header](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=27&duration=3500&pause=1000&color=FFFFFF&background=17365D&center=true&vCenter=true&width=900&height=105&lines=Gabriel+Januário;Business+Analyst+%7C+Operations+%26+Performance;Processos+%7C+Dados+%7C+Melhoria+Contínua)
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-gabriel--januário1-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/gabriel-januário1)
 [![Email](https://img.shields.io/badge/Email-gabrieljanuario1%40outlook.com-0078D4?style=flat-square&logo=microsoft-outlook&logoColor=white)](mailto:gabrieljanuario1@outlook.com)
