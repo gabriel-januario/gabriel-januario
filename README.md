@@ -8,9 +8,8 @@ Tenho mais de 13 anos de experiência na indústria metalmecânica, do chão de 
 
 ## Entregas profissionais
 
-- **Controle da produção.** Implantei um controle digital para rastrear o programado e o realizado. O processo implantado foi aprovado pelo Sistema de Gestão da Qualidade (SGQ).
-- **Planejamento e desempenho.** Na Mult Engrenagens, contribuí para reduzir em cerca de **25% os atrasos produtivos** com melhorias no planejamento e no acompanhamento da execução.
-- **Conciliação de dados e indicadores.** Cruzei a programação no Spider Project com os apontamentos do ERP Senior e desenvolvi indicadores de carga, capacidade e aderência à programação para análise de desvios com as áreas operacionais.
+- **Controle da produção.** Implantei um controle de produção digital para rastrear o programado e o realizado. O processo implantado foi aprovado pelo Sistema de Gestão da Qualidade (SGQ).
+- **Conciliação de dados e indicadores.** Cruzei a programação com os apontamentos do ERP Senior e desenvolvi indicadores de carga, capacidade e aderência à programação para análise de desvios com as áreas operacionais.
 
 ## PULSO · Análise de desempenho da usinagem
 
