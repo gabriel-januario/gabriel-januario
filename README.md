@@ -27,6 +27,6 @@ O protótipo roda no navegador com React, TypeScript e SQLite. A demonstração 
 
 ## Ferramentas, formação e certificação
 
-**Dados e indicadores** · Excel, Power Query e Power BI  
-**Planejamento e sistemas industriais** · Spider Project, Microsoft Project, ERP Senior e vivência operacional com APS/MES  
+**Dados e indicadores** · Excel, SQL e Power BI  
+**Planejamento e sistemas** · Spider Project, Microsoft Project, ERP SAP /Protheus/ Dynamics365 e vivência operacional com APS/MES  
 **Formação e certificação** · Tecnólogo em Gestão da Produção Industrial pela FATEC Sertãozinho · Professional Scrum Master I (PSM I)
