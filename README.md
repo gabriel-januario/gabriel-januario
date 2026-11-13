@@ -2,30 +2,32 @@
 
 **Análise de Negócios e Operações · Melhoria de Processos · Digitalização Industrial**
 
-Tenho mais de 13 anos de experiência na indústria metalmecânica, do chão de fábrica ao planejamento da produção. Trabalho com áreas operacionais e liderança para definir regras de negócio, conciliar dados de sistemas e transformar desvios de capacidade, prazo e execução em decisões de planejamento.
+Tenho mais de 13 anos de experiência na indústria metalmecânica, do chão de fábrica ao Planejamento, Programação e Controle da Produção (PPCP). Com as áreas operacionais e a liderança, defino regras de negócio, concilio dados de planejamento e execução e construo indicadores para decisões de capacidade, sequenciamento e prazo.
 
 [LinkedIn](https://linkedin.com/in/gabriel-janu%C3%A1rio1) · [Case PULSO](https://github.com/gabriel-januario/pulso) · [Demonstração interativa](https://gabriel-januario.github.io/pulso/)
 
 ## Entregas profissionais
 
-| Frente | Entrega |
+- **Controle da produção.** Implantei um controle digital para rastrear o programado e o realizado. O processo implantado foi aprovado pelo Sistema de Gestão da Qualidade (SGQ).
+- **Planejamento e desempenho.** Na Mult Engrenagens, contribuí para reduzir em cerca de **25% os atrasos produtivos** com melhorias no planejamento e no acompanhamento da execução.
+- **Conciliação de dados e indicadores.** Cruzei a programação no Spider Project com os apontamentos do ERP Senior e desenvolvi indicadores de carga, capacidade e aderência à programação para análise de desvios com as áreas operacionais.
+
+## PULSO · Análise de desempenho da usinagem
+
+Desenvolvi um protótipo funcional para responder a uma pergunta de PPCP: **qual grupo de máquinas investigar antes da próxima reunião de carga?** O PULSO cruza apontamentos de produção, calendário fabril e escalas para calcular capacidade, utilização e perdas. A análise vai do indicador consolidado aos registros por máquina.
+
+| Etapa | Como tratei no PULSO |
 |---|---|
-| Melhoria de processos | Implantei um controle digital da produção, com rastreabilidade do programado versus realizado e aprovação pelo Sistema de Gestão da Qualidade. |
-| Planejamento e performance | Contribuí para reduzir em aproximadamente **25% os atrasos produtivos** na Mult Engrenagens, com melhorias no planejamento e no acompanhamento da execução. |
-| Dados para operações | Conciliei a programação no Spider Project com registros do ERP Senior e desenvolvi indicadores de carga, capacidade e aderência para análise com as áreas envolvidas. |
+| Modelagem do processo | Defini o dia produtivo das 06h às 06h e a capacidade fixa a partir dos turnos validados, das horas líquidas e da disponibilidade cadastrada. |
+| Regras de cálculo | Consolidei intervalos simultâneos na mesma máquina e separei a produção em turno regular da hora extra no cálculo da utilização. |
+| Critérios de validação | Documentei as fórmulas e os casos de exceção. A suíte automatizada verifica, entre outros pontos, se os destinos da capacidade somam a capacidade fixa e se os totais do Excel fecham com o motor de cálculo. |
 
-## Projeto em destaque
+O protótipo roda no navegador com React, TypeScript e SQLite. A demonstração usa uma base transformada e permite investigar a utilização de um grupo, comparar máquinas e conferir os apontamentos antes de atribuir uma causa ao desvio.
 
-### PULSO · Análise de desempenho da usinagem
+[Roteiro da demonstração](https://github.com/gabriel-januario/pulso#roteiro-de-demonstra%C3%A7%C3%A3o) · [Regras de negócio](https://github.com/gabriel-januario/pulso/blob/main/docs/REGRAS-DE-NEGOCIO.md) · [Testes](https://github.com/gabriel-januario/pulso/tree/main/tests)
 
-Desenvolvi um protótipo funcional para investigar utilização, capacidade e perdas a partir de apontamentos de produção, calendário fabril e escalas. A demonstração permite partir de um indicador, investigar um grupo de máquinas e consultar os registros que sustentam a análise.
+## Ferramentas, formação e certificação
 
-Minha contribuição inclui a definição do problema, das regras de negócio e dos critérios de validação. Entre as decisões de cálculo estão a consolidação de apontamentos simultâneos na mesma máquina, a separação de horas extras e o tratamento de turnos que atravessam a meia-noite. Os indicadores da demonstração vêm de uma base transformada.
-
-[Ver o roteiro da demonstração](https://github.com/gabriel-januario/pulso#roteiro-de-demonstra%C3%A7%C3%A3o) · [Consultar as regras de negócio](https://github.com/gabriel-januario/pulso/blob/main/docs/REGRAS-DE-NEGOCIO.md)
-
-## Ferramentas e formação
-
-Excel, Power Query, Power BI, Spider Project e Microsoft Project. Vivência operacional com ERP Senior e APS/MES.
-
-Tecnólogo em Gestão da Produção Industrial pela FATEC Sertãozinho. Professional Scrum Master I (PSM I).
+**Dados e indicadores** · Excel, Power Query e Power BI  
+**Planejamento e sistemas industriais** · Spider Project, Microsoft Project, ERP Senior e vivência operacional com APS/MES  
+**Formação e certificação** · Tecnólogo em Gestão da Produção Industrial pela FATEC Sertãozinho · Professional Scrum Master I (PSM I)
